@@ -6,7 +6,7 @@ Two LTspice projects which contain various BJT amplifier designs and their frequ
 
 ## Projects
 
-[Homework 4: Low Frequency Response of BJT Amplifiers]()
+[Homework 4: Low Frequency Response of BJT Amplifiers](LowFrequencyResponseBJTAmp)
 
 [Experiment 7: Single-BJT Amplifiers at Low and High Frequencies](SingleBJTAmpsLowHighFrequencies)
 
