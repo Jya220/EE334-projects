@@ -1,6 +1,6 @@
 # EE334-projects
 
-Five LTspice projects assigned for the Electronics II (EE 334) course in the Spring 2022 semester. Also includes two experiments assigned for the Electronics Laboratory II (EE 336) course in the Spring 2022 semester.
+Numerous LTspice projects assigned for the Electronics II (EE 334) and Electronics Laboratory II (EE 336) courses. This repository includes five LTspice projects assigned for the Electronics II (EE 334) course and two experiments assigned for the Electronics Laboratory II (EE 336) course in the Spring 2022 semester.
 
 
 
