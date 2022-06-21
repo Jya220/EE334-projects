@@ -1,8 +1,6 @@
-# frequency-response
+# EE334-projects
 
-Two LTspice projects which contain various BJT amplifier designs and their frequency response analyses.
-
-These projects were assigned for the Electronics II (EE 334) and Electronics Laboratory II (EE 336) courses in the Spring 2022 semester.
+Numerous LTspice projects assigned for the Electronics II (EE 334) course in the Spring 2022 semester.
 
 
 
